@@ -1,0 +1,1 @@
+{"allowedCwdRoots":["%USERPROFILE%"],"authProbeTimeoutSec":20,"defaultTimeoutSec":600,"logRotateBytes":1048576,"maxConcurrency":5,"maxDrainMinutes":90,"maxJobsPerDrain":10,"maxTimeoutSec":1800,"minTimeoutSec":10,"modeCeiling":"readonly","outputCapBytes":52428800,"promptMaxChars":200000,"retentionDays":30}

@@ -1,0 +1,10 @@
+*.log
+inbox/
+outbox/
+done/
+bridge.lock
+*.tmp*
+last-retention.txt
+sessionbridge.expected.sha256
+_bridge-health.json
+test-work/
